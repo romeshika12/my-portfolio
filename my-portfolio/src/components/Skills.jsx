@@ -64,7 +64,7 @@ const Skills = () => {
               marginBottom: "18px",
             }}
           >
-            Skills
+            Skills update
           </span>
 
           <h2
